@@ -1,5 +1,5 @@
 
-## Tech
+## Skill
 - Language: Java, Spring Boot
 - DataBase: MySQL, Redis
 - Etc: Git, AWS
